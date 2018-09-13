@@ -4,7 +4,7 @@ This repository contains experiments to use neural networks to learn classifiers
 <br><br>
 The datasets are:
 <br><br>
-•	<b>Breast Cancer</b> Wisconsin Data Set (reference to UCI ML Repository description)<br>
+•	<b>Breast Cancer</b> Wisconsin Data Set (reference to UCI ML Repository description <a href="http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">description</a>)<br>
 •	<b>Diabetes</b> Data Set (reference to UCI Machine Learning Repository description)<br>
 •	<b>Ionosphere</b> Data Set (reference to UCI Machine Learning Repository description)<br>
 •	<b>Mushroom</b> Data Set (reference to UCI Machine Learning Repository description)
