@@ -14,8 +14,8 @@ For each dataset there are three groups of notebooks:
 •	<b>Data Analysis</b> performs basic data analysis, visualizations of the data sets, outlier detection and feature engineering.<br>
 •	<b>ML model search</b> uses traditional sklearn Grid Search to select a traditional sklearn estimator (e.g. Linear Regression) and allows tuning hyper-parameters.<br>
 •	<b>ML classifier</b> trains the final estimator and validates its performance using metrics and visualizations.<br>
-•	<b>DL model search</b> uses traditional sklearn Grid Search to select a MLP implemented in pytorch and allows tuning hyper-parameters.<br><br>
-•	<b>ML classifier</b> trains the final estimator and validates its performance using metrics and visualizations.
+•	<b>DL model search</b> uses traditional sklearn Grid Search to select a MLP implemented in pytorch and allows tuning hyper-parameters.<br>
+•	<b>DL classifier</b> trains the final estimator and validates its performance using metrics and visualizations.
 <br><br>
 The notebooks implement the following data analysis, model selection and tuning flow for both traditional ML estimators and NNs:
 <br><br>
