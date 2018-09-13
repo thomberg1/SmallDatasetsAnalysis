@@ -1,3 +1,4 @@
+<b>Experiments on Small Datasets with Deep Learning</b>
 <p/>
 This repository contains experiments to use neural networks to learn classifiers using small datasets. 
 <p/>
