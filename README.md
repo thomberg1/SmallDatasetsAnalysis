@@ -18,4 +18,5 @@ For each dataset there are three groups of notebooks:
 •	<b>ML classifier</b> trains the final estimator and validates its performance using metrics and visualizations.
 <p/>
 The notebooks implement the following data analysis, model selection and tuning flow for both traditional ML estimators and NNs:<p/>
-
+<p/>
+![Alt text](images/AnalysisSelectionTuning.jpg?raw=true "")
