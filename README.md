@@ -4,10 +4,10 @@ This repository contains experiments to use neural networks to learn classifiers
 <br><br>
 The datasets are:
 <br><br>
-•	<b>Breast Cancer</b> Wisconsin Data Set (reference to UCI ML Repository description <a href="http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">description</a>)<br>
-•	<b>Diabetes</b> Data Set (reference to UCI Machine Learning Repository description)<br>
-•	<b>Ionosphere</b> Data Set (reference to UCI Machine Learning Repository description)<br>
-•	<b>Mushroom</b> Data Set (reference to UCI Machine Learning Repository description)
+•	<b>Breast Cancer</b> Wisconsin Data Set (reference to UCI ML Repository <a href="http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">description</a>)<br>
+•	<b>Diabetes</b> Data Set (reference to UCI Machine Learning Repository <a href="https://archive.ics.uci.edu/ml/datasets/diabetes">description</a>)<br>
+•	<b>Ionosphere</b> Data Set (reference to UCI Machine Learning Repository <a href="https://archive.ics.uci.edu/ml/datasets/ionosphere">description</a>)<br>
+•	<b>Mushroom</b> Data Set (reference to UCI Machine Learning Repository <a href="https://archive.ics.uci.edu/ml/datasets/mushroom">description</a>)
 <br><br>
 For each dataset there are three groups of notebooks:
 <br><br>
