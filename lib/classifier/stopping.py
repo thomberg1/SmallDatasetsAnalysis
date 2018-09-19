@@ -1,5 +1,4 @@
-
-
+import copy
 
 #######################################################################################################################
 
@@ -24,7 +23,7 @@ class Stopping(object):
         if valid_score > self.best_score:
             self.best_score = valid_score
             self.best_score_epoch = epoch
-            self.best_score_state = self.model.state_dict()
+            self.best_score_state = copy.deepcopy(self.model.state_dict())
             return False
         elif self.best_score_epoch + self.patience < epoch:
             return True
